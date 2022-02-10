@@ -1,0 +1,28 @@
+body {
+    background-color: #00539F;
+}
+
+div {
+    background-color: #FF9500;
+    border: 5px solid #000;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #00539F;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p,
+ul {
+    font-weight: bolder;
+    font-size: large;
+}
